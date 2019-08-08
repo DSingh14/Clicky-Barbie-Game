@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Clicky-Barbie-Game/static/css/main.3a2390e2.chunk.css",
+    "main.js": "/Clicky-Barbie-Game/static/js/main.f85dab75.chunk.js",
+    "main.js.map": "/Clicky-Barbie-Game/static/js/main.f85dab75.chunk.js.map",
+    "runtime~main.js": "/Clicky-Barbie-Game/static/js/runtime~main.d7453c80.js",
+    "runtime~main.js.map": "/Clicky-Barbie-Game/static/js/runtime~main.d7453c80.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/Clicky-Barbie-Game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/Clicky-Barbie-Game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/Clicky-Barbie-Game/index.html",
+    "precache-manifest.7afdb43cf6ce530ba8eb8e58d2b21f6c.js": "/Clicky-Barbie-Game/precache-manifest.7afdb43cf6ce530ba8eb8e58d2b21f6c.js",
+    "service-worker.js": "/Clicky-Barbie-Game/service-worker.js",
+    "static/css/main.3a2390e2.chunk.css.map": "/Clicky-Barbie-Game/static/css/main.3a2390e2.chunk.css.map"
+  }
+}
