@@ -9,11 +9,12 @@
 .card>.img-container {
     overflow: hidden;
     text-align: center;
-    background: black;
+    background:palevioletred;
     justify-content: center;  
     margin: 20px;   
 }
 
 .card>.img-container>img {
-    width: 150px;   
+    width: 150px;
+    height: 200px;   
 }
