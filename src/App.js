@@ -16,7 +16,8 @@ class App extends Component {
     matches,
     correctGuesses,
     bestScore,
-    clickMessage
+    clickMessage,
+
   };
 
   setClicked = id => {
@@ -111,6 +112,7 @@ class App extends Component {
           Best Score: {this.state.bestScore}
         </h3>
         <div className="container">
+
           <div className="row">
             {this.state.matches.map(match => (
               <MatchCard
@@ -120,7 +122,9 @@ class App extends Component {
                 image={match.image}
               />
             ))}
+
           </div>
+
         </div>
 
       </Wrapper>

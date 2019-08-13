@@ -1,7 +1,11 @@
 .card {
-    background: #fff;
+    background-image: url("/clickygame/public/assets/images/wallpaper.jpg");
     border-radius: 2px;
+<<<<<<< Updated upstream
     box-shadow: 0 3px 6px #999, 0 3px 6p lightpink;
+=======
+    box-shadow: 0 3px 6px rgb(236, 187, 220), 0 3px 6px rgb(236, 122, 198);
+>>>>>>> Stashed changes
     text-align: left;
     justify-content: center;
 }
@@ -9,12 +13,21 @@
 .card>.img-container {
     overflow: hidden;
     text-align: center;
+<<<<<<< Updated upstream
     background:palevioletred;
+=======
+    background: palevioletred;
+>>>>>>> Stashed changes
     justify-content: center;  
     margin: 20px;   
 }
 
 .card>.img-container>img {
+<<<<<<< Updated upstream
     width: 150px;
     height: 200px;   
+=======
+    width: 150px; 
+    height: 200px;  
+>>>>>>> Stashed changes
 }
